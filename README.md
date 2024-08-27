@@ -1,3 +1,5 @@
+All credit goes to `LeadGenerationTools/google-maps-extractor`. As it was open sourced and allowed modification, I just tried bypassing the quota limits. And it works. Hope that helps anyone if gets found.
+
 # google-maps-extractor
 
 This chrome extension enables you to extract local business leads from Google Maps with ease, including phone numbers, websites, email addresses, social media links, and physical addresses. With just one search on Google Maps, this scraper automatically extracts the business data you need. You can even export the results to a CSV or Excel file with a single click.
